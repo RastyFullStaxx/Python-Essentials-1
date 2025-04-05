@@ -1,6 +1,5 @@
 # 🐍 Day 1: Hello, Python!
 
----
 
 ## 🧭 Overview
 
