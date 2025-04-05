@@ -7,7 +7,6 @@ Python is one of the most versatile programming languages in the world. It's wid
 
 This module introduces what Python is, how to begin writing code, and the two common environments where Python is executed: **interactive shells** and **scripts**.
 
----
 
 ## 📚 What You’ll Learn
 
@@ -75,7 +74,6 @@ python --version
 
 You should see something like `Python 3.x.x`.
 
----
 
 ### Step 2: Install VS Code
 
@@ -83,7 +81,6 @@ You should see something like `Python 3.x.x`.
 2. Download and install the version for your operating system.
 3. Launch VS Code.
 
----
 
 ### Step 3: Install the Python Extension in VS Code
 
@@ -94,7 +91,6 @@ You should see something like `Python 3.x.x`.
 
 You’ll now be able to run Python code inside VS Code.
 
----
 
 ### Step 4: Write and Run Your First Python Script
 
@@ -116,7 +112,6 @@ Hello, Python World!
 
 🎉 You’ve just run your first Python script!
 
----
 
 ## 💡 Key Concepts Recap
 
@@ -134,10 +129,10 @@ Hello, Python World!
 
 ## 🛠 Tools Checklist
 
-✅ Python installed  
-✅ VS Code installed  
-✅ Python extension for VS Code  
-✅ First script: `print("Hello, Python World!")` tested and working  
+Python installed  
+VS Code installed  
+Python extension for VS Code  
+First script: `print("Hello, Python World!")` tested and working  
 
 ---
 
